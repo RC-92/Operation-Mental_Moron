@@ -34,11 +34,13 @@ Python virtual environment containing dependencies, including Whisper and any ot
 
 # 🚀 Getting Started
 1. Clone the repo:
-2. Place Raw audio file in raw_audio/
-3. Navigate to scripts/
-4. Run process_audio.sh 
+2. Uncompress the tar file
+``tar -xvf Operation-MentalMoron.tar.xz``
+3. Place Raw audio file in raw_audio/
+4. Navigate to scripts/
+5. Run process_audio.sh 
 ``process_audio.sh``
-5. Once audio clip has been processed, run TransribeAudio.py
+6. Once audio clip has been processed, run TransribeAudio.py
 ``python3 TransribeAudio.py``
 
 
