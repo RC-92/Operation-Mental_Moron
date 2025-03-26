@@ -10,26 +10,27 @@ Operation Mental Moron is a simple application that "converts" audio files to te
 └── whisper-env/
 # 📂 Directory Purpose
 
-## raw_audio/
+## **raw_audio**
 This folder contains the original, unprocessed audio files (e.g., .mp3, .wav).
 Files placed here are not yet converted or split for transcription.
 
-## preprocessed_audio/
+## **preprocessed_audio**
 Contains audio files converted to 16kHz mono .wav format, ready for transcription by Whisper.
 
-## transcripts/
+## **transcripts**
 Stores the generated transcripts as .txt files.
 
-## scripts/
+## **scripts**
 Custom scripts related to audio preprocessing, transcription, or automation.
 
-## whisper-env/
+## **whisper-env**
 Python virtual environment containing dependencies, including Whisper and any other required libraries.
 
-# 🛠️ Requirements
+# 🛠️ **Requirements**
 - Python 3.8+
 - ffmpeg
 - Whisper
+
 
 # 🚀 Getting Started
 1. Clone the repo:
