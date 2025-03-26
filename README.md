@@ -10,11 +10,11 @@ Operation Mental Moron is a simple application that "converts" audio files to te
 
 ```
 /home/$USER/Operation-MentalMoron/
-									├── preprocessed_audio/
-									├── raw_audio/
-									├── scripts/
-									├── transcripts/
-									└── whisper-env/
+├── preprocessed_audio/
+├── raw_audio/
+├── scripts/
+├── transcripts/
+└── whisper-env/
 ```
 
 # 📂 Directory Purpose
