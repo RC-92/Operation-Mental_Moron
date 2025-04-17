@@ -1,10 +1,21 @@
-# Operation-Mental_Moron
+# Project name: 
 
-Operation Mental Moron is a simple application that "converts" audio files to text using OpenAI's Whisper speech recognition model.
+This project was inspired after watching a podcast on YouTube in which a guest discussed their experience with bipolar disorder. 
+Unfortunately, both the guest and the host approached the topic with insensitivity—laughing, spreading misinformation, and minimizing the seriousness of the condition. 
+This naturally upset me. 
+However, before jumping to conclusions, I wanted to ensure I had accurately understood what was said. 
+To verify and analyze the conversation objectively, I built this transcription tool to convert spoken words into readable text.
+
+# Purpose:
+**Operation_MentalMoron** is a simple utility that converts audio files into text using OpenAI's Whisper speech recognition model.
+
+
+
 # 🛠️ **Requirements**
 - Python 3.8+
 - ffmpeg
 - Whisper
+- Python Virual Enviroment
 
 **# 📁 File Structure**
 
